@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://affectionate-jennings-a49b9d.netlify.app/* https://privatesale.clothbitc.com/:splat 301!
